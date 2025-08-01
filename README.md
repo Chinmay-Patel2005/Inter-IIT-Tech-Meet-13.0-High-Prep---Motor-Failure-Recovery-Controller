@@ -1,4 +1,4 @@
-
+## This is a clone of the repository submitted for Inter IIT Tech Meet 13.0 for the High prep PS Drone Recovery after Motor failure
 # PX4 Repository
 
 This repository contains code and configuration files to work with the PX4 Autopilot for UAVs in simulation using Gazebo. The following instructions will guide you through the requirements, setup, and basic usage, including simulating motor failure.
